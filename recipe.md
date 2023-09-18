@@ -4,7 +4,8 @@
 - 2 cups all-purpose flour
 - 1 3/4 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
-- ...
+- 3 eggs
+- 2 shots of espresso
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
